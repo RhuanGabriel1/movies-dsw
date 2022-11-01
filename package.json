@@ -7,7 +7,9 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "engines":{"node": "16.16.0"},
+  "engines": {
+    "node": "16.16.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RhuanGabriel1/exercicios-web.git"
@@ -28,6 +30,5 @@
     "lite-server": "^2.6.1",
     "mongodb": "^4.10.0",
     "nodemon": "^2.0.20"
-  },
-  "devDependencies": {}
+  }
 }
